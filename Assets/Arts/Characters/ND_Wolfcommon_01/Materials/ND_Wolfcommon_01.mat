@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ND_Wolfcommon_01
+  m_Shader: {fileID: 4800000, guid: 0a1654880bd48ca4c879dbaab4140cb9, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 3b93417ab0127114ea55a646a1e1668a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MatCap:
+        m_Texture: {fileID: 2800000, guid: 2e7135a4bd805c149b95747b2eb3304f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _: 0
+    - _AlphaCutoff: 0.5
+    - _BaseMix: 0.8
+    - _BaseScale: 3.45
+    - _BeAttackRate: 0
+    - _ColorDepthFade: 0
+    - _DisplaceStrength: 0
+    - _FoamCutoff: 0
+    - _FoamDepthFade: 0.19
+    - _FoamScale: 2
+    - _FresnelBias: 0
+    - _FresnelEnable: 0
+    - _FresnelPower: 2
+    - _FresnelScale: 1
+    - _GlossScale: 0
+    - _LightScale: 1
+    - _MetalContrast: 0.5
+    - _MetalHighlight: 0
+    - _MetalThreshold: 0
+    - _MinganLine: 0
+    - _MinganLineSoft: 0.223
+    - _MingnLine: -0.112
+    - _NonMetalContrast: 0.5
+    - _NonMetalHighlight: 0
+    - _NonMetalThreshold: 0
+    - _Opacity: 1
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _RED: 0
+    - _RIM: 0
+    - _RampSmooth: 0.01
+    - _RampThreshold: 0.634
+    - _RefractionDepth: 0
+    - _RefractionStrength: 0
+    - _Rim2Power: 0
+    - _Rim2Width: 0
+    - _RimLightClose: 0
+    - _RimLightKuan: 0.338
+    - _RimLightSoft: 0.19
+    - _Rim_Light_1: 0.296
+    - _Rim_Light_Soft: 0.274
+    - _Smoothness: 0
+    - _Soft: 0.142
+    - _SpecIntensity: 0
+    - _WaveNormalIntensity: 1
+    - _WaveTiling01: 1
+    - _WorldtoObjectPosition: 0
+    - _minganxian: -0.129
+    - _minganxianSoft: 0.042
+    m_Colors:
+    - _Agaoguang: {r: -0.79, g: -0.29, b: 0, a: 0}
+    - _BeAttackColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Bgaoguang: {r: -0.09, g: 0.36, b: 0, a: 0}
+    - _BrightColor: {r: 1.2483368, g: 1.2483368, b: 1.2483368, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorDeep: {r: 0.12130647, g: 0.34791896, b: 0.5471698, a: 0}
+    - _ColorShallow: {r: 0.5990566, g: 0.9091429, b: 1, a: 0}
+    - _DarkColor: {r: 0.43924502, g: 0.60444427, b: 0.681, a: 1}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissiveColor: {r: 0, g: 0, b: 0, a: 0}
+    - _Emissive_Color: {r: 0.735849, g: 0.735849, b: 0.735849, a: 0}
+    - _FoamColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FresnelColor: {r: 1, g: 0.5, b: 0, a: 1}
+    - _LightColor: {r: 1.3041189, g: 1.3041189, b: 1.3041189, a: 0}
+    - _LightOffset: {r: 0, g: 0, b: 0, a: 0}
+    - _PenetratingLight: {r: 0.5170635, g: 0.6712066, b: 0.87693965, a: 0}
+    - _Penetrating_light: {r: 1.2311444, g: 0.76147187, b: 0.55169207, a: 0}
+    - _RimColor: {r: 1, g: 0, b: 0, a: 0}
+    - _RimLight: {r: 0.027411906, g: 0.27808788, b: 0.8301887, a: 0}
+    - _RimLightColor: {r: 1, g: 0.9091924, b: 0.75, a: 0}
+    - _Rim_Light: {r: 1.1333582, g: 1.8974813, b: 3.482202, a: 0}
+    - _Rim_Light_Scale: {r: 0.23, g: 0.42, b: 0, a: 0}
+    - _ShadowColor: {r: 0.9212798, g: 0.9311834, b: 0.9716981, a: 0}
+    - _SpecularColor: {r: 3.3424938, g: 1.6221926, b: 0.42569497, a: 0}
+    - _Specular_Color: {r: 2.0243711, g: 2.151659, b: 2.7335458, a: 0}
+    - _ViewOffset: {r: 0, g: 0, b: 0, a: 0}
+    - __1: {r: 0.28, g: -0.28, b: 0.04, a: 0}
+    - _gaoguangpianyi: {r: 0.01, g: -0.03, b: 0, a: 0}
+    - _jiaodu: {r: 2.77, g: -1.9, b: -2.74, a: 0}
+    - _light_color: {r: 1, g: 1, b: 1, a: 0}
+    - _lightcolor: {r: 0.99999994, g: 0.99999994, b: 0.99999994, a: 0}
+    - _shadow_color: {r: 0.7122642, g: 0.8490565, b: 1, a: 0}
+    - _shadowcolor: {r: 0.6868548, g: 0.83174455, b: 0.990566, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &412723707995944205
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7

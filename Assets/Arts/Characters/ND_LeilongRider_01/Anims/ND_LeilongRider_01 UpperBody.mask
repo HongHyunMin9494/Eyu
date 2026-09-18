@@ -1,0 +1,389 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ND_LeilongRider_01 UpperBody
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: FX_Name
+    m_Weight: 0
+  - m_Path: FX_Root
+    m_Weight: 0
+  - m_Path: ND_Leilong_01
+    m_Weight: 0
+  - m_Path: ND_Leilongqi_01
+    m_Weight: 0
+  - m_Path: root
+    m_Weight: 0
+  - m_Path: root/PetRoot
+    m_Weight: 0
+  - m_Path: root/PetRoot/Bone_Bip001
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Pelvis
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Pelvis/Bone_Bip001 L Thigh
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Pelvis/Bone_Bip001 L Thigh/Bone_Bip001
+      L Calf
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Pelvis/Bone_Bip001 L Thigh/Bone_Bip001
+      L Calf/Bone_Bip001 L Foot
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Pelvis/Bone_Bip001 L Thigh/Bone_Bip001
+      L Calf/Bone_Bip001 L Foot/Bone_Bip001 L Toe0
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Pelvis/Bone_Bip001 L Thigh/Bone_Bip001
+      L Calf/Bone_Bip001 L Foot/FX_L_Foot
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Pelvis/Bone_Bip001 R Thigh
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Pelvis/Bone_Bip001 R Thigh/Bone_Bip001
+      R Calf
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Pelvis/Bone_Bip001 R Thigh/Bone_Bip001
+      R Calf/Bone_Bip001 R Foot
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Pelvis/Bone_Bip001 R Thigh/Bone_Bip001
+      R Calf/Bone_Bip001 R Foot/Bone_Bip001 R Toe0
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Pelvis/Bone_Bip001 R Thigh/Bone_Bip001
+      R Calf/Bone_Bip001 R Foot/FX_R_Foot
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Pelvis/Bone_tail_01
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Pelvis/Bone_tail_01/Bone_tail_02
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Pelvis/Bone_tail_01/Bone_tail_02/Bone_tail_03
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Pelvis/Bone_tail_01/Bone_tail_02/Bone_tail_03/Bone_tail_04
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Pelvis/Bone_tail_01/Bone_tail_02/Bone_tail_03/Bone_tail_04/Bone_tail_05
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      L Clavicle
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      L Clavicle/Bone_Bip001 L UpperArm
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      L Clavicle/Bone_Bip001 L UpperArm/Bone_Bip001 L Forearm
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      L Clavicle/Bone_Bip001 L UpperArm/Bone_Bip001 L Forearm/Bone_Bip001 L Hand
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      L Clavicle/Bone_Bip001 L UpperArm/Bone_Bip001 L Forearm/Bone_Bip001 L Hand/Bone_Bip001
+      L Finger0
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      L Clavicle/Bone_Bip001 L UpperArm/Bone_Bip001 L Forearm/Bone_Bip001 L Hand/Bone_Bip001
+      L Finger0/Bone_Bip001 L Finger01
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      L Clavicle/Bone_Bip001 L UpperArm/Bone_Bip001 L Forearm/Bone_Bip001 L Hand/Bone_Bip001
+      L Finger1
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      L Clavicle/Bone_Bip001 L UpperArm/Bone_Bip001 L Forearm/Bone_Bip001 L Hand/Bone_Bip001
+      L Finger1/Bone_Bip001 L Finger11
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      L Clavicle/Bone_Bip001 L UpperArm/Bone_Bip001 L Forearm/Bone_Bip001 L Hand/Bone_Bip001
+      L Finger2
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      L Clavicle/Bone_Bip001 L UpperArm/Bone_Bip001 L Forearm/Bone_Bip001 L Hand/Bone_Bip001
+      L Finger2/Bone_Bip001 L Finger21
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      L Clavicle/Bone_Bip001 L UpperArm/Bone_Bip001 L Forearm/Bone_Bip001 L Hand/FX_L_Hand
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      Neck
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      Neck/Bone_Bip001 Head
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      Neck/Bone_Bip001 Head/Bone_lowLid_L
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      Neck/Bone_Bip001 Head/Bone_lowLid_R
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      Neck/Bone_Bip001 Head/Bone_mouth_down
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      Neck/Bone_Bip001 Head/Bone_mouth_down/Bone_tongue_01
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      Neck/Bone_Bip001 Head/Bone_mouth_down/Bone_tongue_01/Bone_tongue_02
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      Neck/Bone_Bip001 Head/Bone_upLid_L
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      Neck/Bone_Bip001 Head/Bone_upLid_R
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      Neck/Bone_Bip001 Head/FX_Head
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      R Clavicle
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      R Clavicle/Bone_Bip001 R UpperArm
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      R Clavicle/Bone_Bip001 R UpperArm/Bone_Bip001 R Forearm
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      R Clavicle/Bone_Bip001 R UpperArm/Bone_Bip001 R Forearm/Bone_Bip001 R Hand
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      R Clavicle/Bone_Bip001 R UpperArm/Bone_Bip001 R Forearm/Bone_Bip001 R Hand/Bone_Bip001
+      R Finger0
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      R Clavicle/Bone_Bip001 R UpperArm/Bone_Bip001 R Forearm/Bone_Bip001 R Hand/Bone_Bip001
+      R Finger0/Bone_Bip001 R Finger01
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      R Clavicle/Bone_Bip001 R UpperArm/Bone_Bip001 R Forearm/Bone_Bip001 R Hand/Bone_Bip001
+      R Finger1
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      R Clavicle/Bone_Bip001 R UpperArm/Bone_Bip001 R Forearm/Bone_Bip001 R Hand/Bone_Bip001
+      R Finger1/Bone_Bip001 R Finger11
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      R Clavicle/Bone_Bip001 R UpperArm/Bone_Bip001 R Forearm/Bone_Bip001 R Hand/Bone_Bip001
+      R Finger2
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      R Clavicle/Bone_Bip001 R UpperArm/Bone_Bip001 R Forearm/Bone_Bip001 R Hand/Bone_Bip001
+      R Finger2/Bone_Bip001 R Finger21
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Bip001
+      R Clavicle/Bone_Bip001 R UpperArm/Bone_Bip001 R Forearm/Bone_Bip001 R Hand/FX_R_Hand
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Wing_L_01
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Wing_L_01/Bone_Wing_L_02
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Wing_L_01/Bone_Wing_L_02/Bone_Wing_L_03
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Wing_L_01/Bone_Wing_L_02/Bone_Wing_L_03/Bone_Wing_L_03_1
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Wing_L_01/Bone_Wing_L_02/Bone_Wing_L_03/Bone_Wing_L_03_1/Bone_Wing_L_03_2
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Wing_L_01/Bone_Wing_L_02/Bone_Wing_L_03/Bone_Wing_L_04
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Wing_L_01/Bone_Wing_L_02/Bone_Wing_L_03/Bone_Wing_L_04/Bone_Wing_L_04_1
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Wing_L_01/Bone_Wing_L_02/Bone_Wing_L_03/Bone_Wing_L_05
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Wing_L_01/Bone_Wing_L_02/Bone_Wing_L_03/Bone_Wing_L_05/Bone_Wing_L_05_1
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Wing_R_01
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Wing_R_01/Bone_Wing_R_02
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Wing_R_01/Bone_Wing_R_02/Bone_Wing_R_03
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Wing_R_01/Bone_Wing_R_02/Bone_Wing_R_03/Bone_Wing_R_03_1
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Wing_R_01/Bone_Wing_R_02/Bone_Wing_R_03/Bone_Wing_R_03_1/Bone_Wing_R_03_2
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Wing_R_01/Bone_Wing_R_02/Bone_Wing_R_03/Bone_Wing_R_04
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Wing_R_01/Bone_Wing_R_02/Bone_Wing_R_03/Bone_Wing_R_04/Bone_Wing_R_04_1
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Wing_R_01/Bone_Wing_R_02/Bone_Wing_R_03/Bone_Wing_R_05
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/Bone_Wing_R_01/Bone_Wing_R_02/Bone_Wing_R_03/Bone_Wing_R_05/Bone_Wing_R_05_1
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/Bone_Bip001 Spine1/FX_Body
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Pelvis
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Pelvis/Bone_Bip002 L Thigh
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Pelvis/Bone_Bip002 L Thigh/Bone_Bip002 L Calf
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Pelvis/Bone_Bip002 L Thigh/Bone_Bip002 L Calf/Bone_Bip002 L Foot
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Pelvis/Bone_Bip002 R Thigh
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Pelvis/Bone_Bip002 R Thigh/Bone_Bip002 R Calf
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Pelvis/Bone_Bip002 R Thigh/Bone_Bip002 R Calf/Bone_Bip002 R Foot
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Pelvis/Bone_Hem_1
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Pelvis/Bone_Hem_2
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 L Clavicle
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 L Clavicle/Bone_Bip002 L UpperArm
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 L Clavicle/Bone_Bip002 L UpperArm/Bone_Bip002
+      L Forearm
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 L Clavicle/Bone_Bip002 L UpperArm/Bone_Bip002
+      L Forearm/Bone_Bip002 L Hand
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 L Clavicle/Bone_Bip002 L UpperArm/Bone_Bip002
+      L Forearm/Bone_Bip002 L Hand/Bone_Bip002 L Finger1
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 L Clavicle/Bone_Bip002 L UpperArm/Bone_Bip002
+      L Forearm/Bone_Bip002 L Hand/Bone_Bip002 L Finger1/Bone_Bip002 L Finger01
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 L Clavicle/Bone_Bip002 L UpperArm/Bone_Bip002
+      L Forearm/Bone_Bip002 L Hand/Bone_Bip002 L Finger1 1
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 L Clavicle/Bone_Bip002 L UpperArm/Bone_Bip002
+      L Forearm/Bone_Bip002 L Hand/Bone_Bip002 L Finger1 1/Bone_Bip002 L Finger11
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 L Clavicle/Bone_Bip002 L UpperArm/Bone_Bip002
+      L Forearm/Bone_Bip002 L Hand/Bone_Bip002 L Finger2
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 L Clavicle/Bone_Bip002 L UpperArm/Bone_Bip002
+      L Forearm/Bone_Bip002 L Hand/Bone_Bip002 L Finger2/Bone_Bip002 L Finger21
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 L Clavicle/Bone_jianjia
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 Neck
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 Neck/Bone_Bip002 Head
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 Neck/Bone_Bip002 Head/Bone_BackHair_01
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 Neck/Bone_Bip002 Head/Bone_BackHair_01/Bone_BackHair_02
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 Neck/Bone_Bip002 Head/Bone_BackHair_01/Bone_BackHair_02/Bone_BackHair_03
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 Neck/Bone_Bip002 Head/Bone_BackHair_01/Bone_BackHair_02/Bone_BackHair_03/Bone_BackHair_04
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 Neck/Bone_Bip002 Head/Bone_SideHair_L_01
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 Neck/Bone_Bip002 Head/Bone_SideHair_L_01/Bone_SideHair_L_02
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 Neck/Bone_Bip002 Head/Bone_SideHair_L_01/Bone_SideHair_L_02/Bone_SideHair_L_03
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 Neck/Bone_Bip002 Head/Bone_SideHair_L_01/Bone_SideHair_L_02/Bone_SideHair_L_03/Bone_SideHair_L_04
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 Neck/Bone_Bip002 Head/Bone_SideHair_R_01
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 Neck/Bone_Bip002 Head/Bone_SideHair_R_01/Bone_SideHair_R_02
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 Neck/Bone_Bip002 Head/Bone_SideHair_R_01/Bone_SideHair_R_02/Bone_SideHair_R_03
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 Neck/Bone_Bip002 Head/Bone_SideHair_R_01/Bone_SideHair_R_02/Bone_SideHair_R_03/Bone_SideHair_R_04
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 R Clavicle
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 R Clavicle/Bone_Bip002 R UpperArm
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 R Clavicle/Bone_Bip002 R UpperArm/Bone_Bip002
+      R Forearm
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 R Clavicle/Bone_Bip002 R UpperArm/Bone_Bip002
+      R Forearm/Bone_Bip002 R Hand
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 R Clavicle/Bone_Bip002 R UpperArm/Bone_Bip002
+      R Forearm/Bone_Bip002 R Hand/Bone_Bip002 R Finger1
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 R Clavicle/Bone_Bip002 R UpperArm/Bone_Bip002
+      R Forearm/Bone_Bip002 R Hand/Bone_Bip002 R Finger1/Bone_Bip002 R Finger01
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 R Clavicle/Bone_Bip002 R UpperArm/Bone_Bip002
+      R Forearm/Bone_Bip002 R Hand/Bone_Bip002 R Finger1 1
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 R Clavicle/Bone_Bip002 R UpperArm/Bone_Bip002
+      R Forearm/Bone_Bip002 R Hand/Bone_Bip002 R Finger1 1/Bone_Bip002 R Finger11
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 R Clavicle/Bone_Bip002 R UpperArm/Bone_Bip002
+      R Forearm/Bone_Bip002 R Hand/Bone_Bip002 R Finger2
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 R Clavicle/Bone_Bip002 R UpperArm/Bone_Bip002
+      R Forearm/Bone_Bip002 R Hand/Bone_Bip002 R Finger2/Bone_Bip002 R Finger21
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 R Clavicle/Bone_Bip002 R UpperArm/Bone_Bip002
+      R Forearm/Bone_Bip002 R Hand/Bone_Weapon01
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 R Clavicle/Bone_Bip002 R UpperArm/Bone_Bip002
+      R Forearm/Bone_Bip002 R Hand/Bone_Weapon01/BulletRoot
+    m_Weight: 1
+  - m_Path: root/PetRoot/Bone_Bip001/Bone_Bip001 Spine/SitRoot/KingRoot/Bone_Bip002/Bone_Bip002
+      Spine/Bone_Bip002 Spine1/Bone_Bip002 R Clavicle/Bone_Bip002 R UpperArm/Bone_Bip002
+      R Forearm/Bone_Bip002 R Hand/Bone_Weapon01/FX_Weapon
+    m_Weight: 1
