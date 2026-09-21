@@ -107,7 +107,7 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _MainTexBrightness: 0.5
+    - _MainTexBrightness: 2
     - _MainTexPower: 2
     - _Metallic: 0
     - _OcclusionStrength: 1

@@ -774,7 +774,7 @@ MonoBehaviour:
     defaultValue: {fileID: 0}
   prefabGameObject: {fileID: 0}
   updateParticle: 1
-  particleRandomSeed: 10
+  particleRandomSeed: 36
   updateDirector: 1
   updateITimeControl: 1
   searchHierarchy: 0
@@ -889,7 +889,7 @@ MonoBehaviour:
     defaultValue: {fileID: 0}
   prefabGameObject: {fileID: 0}
   updateParticle: 1
-  particleRandomSeed: 2937
+  particleRandomSeed: 65
   updateDirector: 1
   updateITimeControl: 1
   searchHierarchy: 0
