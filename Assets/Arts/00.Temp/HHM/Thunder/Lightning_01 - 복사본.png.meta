@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f2b6db95fc055604b89a98485ce031c7
+guid: 76691bd971b0e1f4fa383c0fb1695799
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -69,19 +69,6 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 256
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -94,7 +81,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: iPhone
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -123,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Lightning_01_0
+      name: "Lightning_01 - \uBCF5\uC0AC\uBCF8_0"
       rect:
         serializedVersion: 2
         x: 0
@@ -137,14 +124,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55f7cb9dce5b49f4f8397bdb44c0184c
-      internalID: -1707307942
+      spriteID: 512d65f5051d83d4fb1554e34a2a0870
+      internalID: 68236526
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lightning_01_1
+      name: "Lightning_01 - \uBCF5\uC0AC\uBCF8_1"
       rect:
         serializedVersion: 2
         x: 128
@@ -158,14 +145,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 715c0f106fdffa14a92f80d4339c5785
-      internalID: 930971380
+      spriteID: e60ce55092ac717428a5f74b65a84415
+      internalID: 372209195
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lightning_01_2
+      name: "Lightning_01 - \uBCF5\uC0AC\uBCF8_2"
       rect:
         serializedVersion: 2
         x: 0
@@ -179,14 +166,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd7b32595205c6449934a7f1a40ccef8
-      internalID: 1498381883
+      spriteID: 9ca74832e23099f418df4bb5f62c9350
+      internalID: 1628010793
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lightning_01_3
+      name: "Lightning_01 - \uBCF5\uC0AC\uBCF8_3"
       rect:
         serializedVersion: 2
         x: 128
@@ -200,14 +187,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d60c95984b1a357429a40af400c680a7
-      internalID: 1465573007
+      spriteID: 2725ca98cc60054409f71d00fc225de3
+      internalID: 2018523273
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lightning_01_4
+      name: "Lightning_01 - \uBCF5\uC0AC\uBCF8_4"
       rect:
         serializedVersion: 2
         x: 0
@@ -221,14 +208,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e416b942f7013c642b7b0795e54e1223
-      internalID: -2091771195
+      spriteID: 38063eeca944fbc41b8e5d2b524e786e
+      internalID: 1305624749
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lightning_01_5
+      name: "Lightning_01 - \uBCF5\uC0AC\uBCF8_5"
       rect:
         serializedVersion: 2
         x: 128
@@ -242,8 +229,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 100577ba5af8f264b82391e448298f39
-      internalID: 1739807651
+      spriteID: 7159043794250c940895270de51cc628
+      internalID: 1740576236
       vertices: []
       indices: 
       edges: []
@@ -251,7 +238,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 4ba4e1d2c8bae7648a1210b2a3f30e27
     internalID: 0
     vertices: []
     indices: 
@@ -259,12 +246,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Lightning_01_0: -1707307942
-      Lightning_01_1: 930971380
-      Lightning_01_2: 1498381883
-      Lightning_01_3: 1465573007
-      Lightning_01_4: -2091771195
-      Lightning_01_5: 1739807651
+      "Lightning_01 - \uBCF5\uC0AC\uBCF8_0": 68236526
+      "Lightning_01 - \uBCF5\uC0AC\uBCF8_1": 372209195
+      "Lightning_01 - \uBCF5\uC0AC\uBCF8_2": 1628010793
+      "Lightning_01 - \uBCF5\uC0AC\uBCF8_3": 2018523273
+      "Lightning_01 - \uBCF5\uC0AC\uBCF8_4": 1305624749
+      "Lightning_01 - \uBCF5\uC0AC\uBCF8_5": 1740576236
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

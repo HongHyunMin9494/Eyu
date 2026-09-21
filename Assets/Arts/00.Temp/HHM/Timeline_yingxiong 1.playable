@@ -1,28 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-8838496884136942185
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 48853ae485fa386428341ac1ea122570, type: 3}
-  m_Name: ControlPlayableAsset(Clone)(Clone)
-  m_EditorClassIdentifier: 
-  sourceGameObject:
-    exposedName: 6a6bfaa4ae50c084692a355aef4a9a65
-    defaultValue: {fileID: 0}
-  prefabGameObject: {fileID: 0}
-  updateParticle: 1
-  particleRandomSeed: 20
-  updateDirector: 1
-  updateITimeControl: 1
-  searchHierarchy: 0
-  active: 1
-  postPlayback: 2
 --- !u!114 &-8729775117213648620
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -47,8 +24,8 @@ MonoBehaviour:
   - m_Version: 1
     m_Start: 0.6000000000000001
     m_ClipIn: 0
-    m_Asset: {fileID: -6335462768518272689}
-    m_Duration: 2
+    m_Asset: {fileID: 5838402344658043900}
+    m_Duration: 1.4333333333333331
     m_TimeScale: 1
     m_ParentTrack: {fileID: -8729775117213648620}
     m_EaseInDuration: 0
@@ -115,6 +92,29 @@ MonoBehaviour:
     m_DisplayName: 01
   m_Markers:
     m_Objects: []
+--- !u!114 &-7376195523501633892
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48853ae485fa386428341ac1ea122570, type: 3}
+  m_Name: ControlPlayableAsset(Clone)(Clone)(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  sourceGameObject:
+    exposedName: b92151abccf306b49b58eb4266c489e7
+    defaultValue: {fileID: 0}
+  prefabGameObject: {fileID: 0}
+  updateParticle: 1
+  particleRandomSeed: 50
+  updateDirector: 1
+  updateITimeControl: 1
+  searchHierarchy: 0
+  active: 1
+  postPlayback: 2
 --- !u!114 &-6917993696623387044
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -133,29 +133,6 @@ MonoBehaviour:
   prefabGameObject: {fileID: 0}
   updateParticle: 1
   particleRandomSeed: 3782
-  updateDirector: 1
-  updateITimeControl: 1
-  searchHierarchy: 0
-  active: 1
-  postPlayback: 2
---- !u!114 &-6335462768518272689
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 48853ae485fa386428341ac1ea122570, type: 3}
-  m_Name: ControlPlayableAsset
-  m_EditorClassIdentifier: 
-  sourceGameObject:
-    exposedName: 184ea2795bdb4564fae420703c2871fd
-    defaultValue: {fileID: 0}
-  prefabGameObject: {fileID: 0}
-  updateParticle: 1
-  particleRandomSeed: 2937
   updateDirector: 1
   updateITimeControl: 1
   searchHierarchy: 0
@@ -185,8 +162,8 @@ MonoBehaviour:
   - m_Version: 1
     m_Start: 1.6666666666666667
     m_ClipIn: 0
-    m_Asset: {fileID: -2402255007762689037}
-    m_Duration: 2
+    m_Asset: {fileID: -7376195523501633892}
+    m_Duration: 1.3666666666666665
     m_TimeScale: 1
     m_ParentTrack: {fileID: -6315270311129723009}
     m_EaseInDuration: 0
@@ -299,8 +276,8 @@ MonoBehaviour:
   - m_Version: 1
     m_Start: 0.9666666666666667
     m_ClipIn: 0
-    m_Asset: {fileID: -1723599440173218256}
-    m_Duration: 2
+    m_Asset: {fileID: 1355431125414439663}
+    m_Duration: 1.333333333333333
     m_TimeScale: 1
     m_ParentTrack: {fileID: -3778963131046268368}
     m_EaseInDuration: 0
@@ -367,7 +344,7 @@ MonoBehaviour:
     m_DisplayName: 02
   m_Markers:
     m_Objects: []
---- !u!114 &-2402255007762689037
+--- !u!114 &-3431931993519938716
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -380,34 +357,11 @@ MonoBehaviour:
   m_Name: ControlPlayableAsset(Clone)(Clone)(Clone)
   m_EditorClassIdentifier: 
   sourceGameObject:
-    exposedName: 976c481075c45214ab568797cb60e6de
+    exposedName: 891a23230a6c86545b87e64ea1cd7251
     defaultValue: {fileID: 0}
   prefabGameObject: {fileID: 0}
   updateParticle: 1
-  particleRandomSeed: 50
-  updateDirector: 1
-  updateITimeControl: 1
-  searchHierarchy: 0
-  active: 1
-  postPlayback: 2
---- !u!114 &-1723599440173218256
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 48853ae485fa386428341ac1ea122570, type: 3}
-  m_Name: ControlPlayableAsset(Clone)
-  m_EditorClassIdentifier: 
-  sourceGameObject:
-    exposedName: 33b8ec0db18005a4191ba06b7233bbd2
-    defaultValue: {fileID: 0}
-  prefabGameObject: {fileID: 0}
-  updateParticle: 1
-  particleRandomSeed: 10
+  particleRandomSeed: 20
   updateDirector: 1
   updateITimeControl: 1
   searchHierarchy: 0
@@ -803,6 +757,29 @@ MonoBehaviour:
   searchHierarchy: 0
   active: 1
   postPlayback: 2
+--- !u!114 &1355431125414439663
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48853ae485fa386428341ac1ea122570, type: 3}
+  m_Name: ControlPlayableAsset(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  sourceGameObject:
+    exposedName: 83e114e35fd4c1946b36fc4b17456ac3
+    defaultValue: {fileID: 0}
+  prefabGameObject: {fileID: 0}
+  updateParticle: 1
+  particleRandomSeed: 10
+  updateDirector: 1
+  updateITimeControl: 1
+  searchHierarchy: 0
+  active: 1
+  postPlayback: 2
 --- !u!114 &2673146534212710418
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -895,6 +872,29 @@ MonoBehaviour:
     m_DisplayName: fx_LeilongRider_01_skill01_shifa01
   m_Markers:
     m_Objects: []
+--- !u!114 &5838402344658043900
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48853ae485fa386428341ac1ea122570, type: 3}
+  m_Name: ControlPlayableAsset(Clone)
+  m_EditorClassIdentifier: 
+  sourceGameObject:
+    exposedName: 3aed967e9ba5bb346934672e85134901
+    defaultValue: {fileID: 0}
+  prefabGameObject: {fileID: 0}
+  updateParticle: 1
+  particleRandomSeed: 2937
+  updateDirector: 1
+  updateITimeControl: 1
+  searchHierarchy: 0
+  active: 1
+  postPlayback: 2
 --- !u!114 &8523790846333009799
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -919,8 +919,8 @@ MonoBehaviour:
   - m_Version: 1
     m_Start: 1.3
     m_ClipIn: 0
-    m_Asset: {fileID: -8838496884136942185}
-    m_Duration: 2
+    m_Asset: {fileID: -3431931993519938716}
+    m_Duration: 1.3666666666666665
     m_TimeScale: 1
     m_ParentTrack: {fileID: 8523790846333009799}
     m_EaseInDuration: 0

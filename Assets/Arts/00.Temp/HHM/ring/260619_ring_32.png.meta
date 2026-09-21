@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f2b6db95fc055604b89a98485ce031c7
+guid: a14965817b93c1a48a4aec455598f20f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -69,19 +69,6 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 256
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -94,7 +81,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: iPhone
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -123,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Lightning_01_0
+      name: 260619_ring_32_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 170.66666
-        width: 128
-        height: 85.333336
+        y: 256
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55f7cb9dce5b49f4f8397bdb44c0184c
-      internalID: -1707307942
+      spriteID: b7735bfc7c2bd464a86d02383c1aab5c
+      internalID: 991667369
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lightning_01_1
+      name: 260619_ring_32_1
       rect:
         serializedVersion: 2
-        x: 128
-        y: 170.66666
-        width: 128
-        height: 85.333336
+        x: 256
+        y: 256
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,62 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 715c0f106fdffa14a92f80d4339c5785
-      internalID: 930971380
+      spriteID: 796417f3acc0a4246816d78307d36b2d
+      internalID: 1204678559
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lightning_01_2
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 85.666664
-        width: 128
-        height: 85.333336
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dd7b32595205c6449934a7f1a40ccef8
-      internalID: 1498381883
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Lightning_01_3
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 85.666664
-        width: 128
-        height: 85.333336
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d60c95984b1a357429a40af400c680a7
-      internalID: 1465573007
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Lightning_01_4
+      name: 260619_ring_32_2
       rect:
         serializedVersion: 2
         x: 0
-        y: 0.6666641
-        width: 128
-        height: 85.333336
+        y: 0
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,20 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e416b942f7013c642b7b0795e54e1223
-      internalID: -2091771195
+      spriteID: d7344e143e2a640449dc35fa3ee4d278
+      internalID: -1914572083
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lightning_01_5
+      name: 260619_ring_32_3
       rect:
         serializedVersion: 2
-        x: 128
-        y: 0.6666641
-        width: 128
-        height: 85.333336
+        x: 256
+        y: 0
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,8 +187,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 100577ba5af8f264b82391e448298f39
-      internalID: 1739807651
+      spriteID: 373659d45bfe34045a23c561840743b3
+      internalID: 1870167963
       vertices: []
       indices: 
       edges: []
@@ -251,7 +196,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 99994c3ffac433c45a8fe7c446177379
     internalID: 0
     vertices: []
     indices: 
@@ -259,12 +204,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Lightning_01_0: -1707307942
-      Lightning_01_1: 930971380
-      Lightning_01_2: 1498381883
-      Lightning_01_3: 1465573007
-      Lightning_01_4: -2091771195
-      Lightning_01_5: 1739807651
+      260619_ring_32_0: 991667369
+      260619_ring_32_1: 1204678559
+      260619_ring_32_2: -1914572083
+      260619_ring_32_3: 1870167963
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

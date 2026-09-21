@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f2b6db95fc055604b89a98485ce031c7
+guid: d4fa79bf0ed4dd2418e21c372db8fcfb
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -69,19 +69,6 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 256
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -94,7 +81,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: iPhone
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -123,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Lightning_01_0
+      name: 260619_smoke_36_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 170.66666
+        y: 192
         width: 128
-        height: 85.333336
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55f7cb9dce5b49f4f8397bdb44c0184c
-      internalID: -1707307942
+      spriteID: fda9a7a97201f37429d49c57a1ca42fd
+      internalID: -1558180508
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lightning_01_1
+      name: 260619_smoke_36_1
       rect:
         serializedVersion: 2
         x: 128
-        y: 170.66666
+        y: 192
         width: 128
-        height: 85.333336
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 715c0f106fdffa14a92f80d4339c5785
-      internalID: 930971380
+      spriteID: 0a6ed35a8e4a62c47a9bf0b9667eaa2e
+      internalID: 1441519013
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lightning_01_2
+      name: 260619_smoke_36_2
       rect:
         serializedVersion: 2
         x: 0
-        y: 85.666664
+        y: 128
         width: 128
-        height: 85.333336
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,20 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd7b32595205c6449934a7f1a40ccef8
-      internalID: 1498381883
+      spriteID: 787ef606fbf544e4db1f2532a5b23e72
+      internalID: 1843969999
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lightning_01_3
+      name: 260619_smoke_36_3
       rect:
         serializedVersion: 2
         x: 128
-        y: 85.666664
+        y: 128
         width: 128
-        height: 85.333336
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d60c95984b1a357429a40af400c680a7
-      internalID: 1465573007
+      spriteID: 0843c43c88b5a724db46fe742cfab010
+      internalID: -1985348461
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lightning_01_4
+      name: 260619_smoke_36_4
       rect:
         serializedVersion: 2
         x: 0
-        y: 0.6666641
+        y: 64
         width: 128
-        height: 85.333336
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e416b942f7013c642b7b0795e54e1223
-      internalID: -2091771195
+      spriteID: 02b101c1ece4f58468200a4f1bb0007a
+      internalID: 1760029025
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lightning_01_5
+      name: 260619_smoke_36_5
       rect:
         serializedVersion: 2
         x: 128
-        y: 0.6666641
+        y: 64
         width: 128
-        height: 85.333336
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,8 +229,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 100577ba5af8f264b82391e448298f39
-      internalID: 1739807651
+      spriteID: b7210cc1cc02ba54d944a69bdee9deac
+      internalID: 1259397551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 260619_smoke_36_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c989e507b2a482c459bf853e880d3aab
+      internalID: 314246462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 260619_smoke_36_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9256f6ba3f18ef458fabcc656e77b9c
+      internalID: -1699217487
       vertices: []
       indices: 
       edges: []
@@ -259,12 +288,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Lightning_01_0: -1707307942
-      Lightning_01_1: 930971380
-      Lightning_01_2: 1498381883
-      Lightning_01_3: 1465573007
-      Lightning_01_4: -2091771195
-      Lightning_01_5: 1739807651
+      260619_smoke_36_0: -1558180508
+      260619_smoke_36_1: 1441519013
+      260619_smoke_36_2: 1843969999
+      260619_smoke_36_3: -1985348461
+      260619_smoke_36_4: 1760029025
+      260619_smoke_36_5: 1259397551
+      260619_smoke_36_6: 314246462
+      260619_smoke_36_7: -1699217487
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
