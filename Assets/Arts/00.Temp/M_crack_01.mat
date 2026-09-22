@@ -105,15 +105,15 @@ Material:
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
-    - _Dissolve_Tex_smooth: 0.52
+    - _Dissolve_Tex_smooth: 0.522
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _MainTexBrightness: 8
-    - _MainTexPower: 1
+    - _MainTexBrightness: 10
+    - _MainTexPower: 1.25
     - _MainTexTurbulenceScale: 0
     - _Metallic: 0
     - _OcclusionStrength: 1
