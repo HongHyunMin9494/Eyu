@@ -20281,9 +20281,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: fx_LeilongRider_01_skill01_shifa02
       objectReference: {fileID: 0}
+    - target: {fileID: 7643512602060922389, guid: bd22bc95a0b84a347907f1c8aeb2c38a, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7703216750805267692, guid: bd22bc95a0b84a347907f1c8aeb2c38a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 1.64
       objectReference: {fileID: 0}
     - target: {fileID: 7703216750805267692, guid: bd22bc95a0b84a347907f1c8aeb2c38a, type: 3}
       propertyPath: m_LocalPosition.y
@@ -20291,7 +20295,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7703216750805267692, guid: bd22bc95a0b84a347907f1c8aeb2c38a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -35.52
       objectReference: {fileID: 0}
     - target: {fileID: 7703216750805267692, guid: bd22bc95a0b84a347907f1c8aeb2c38a, type: 3}
       propertyPath: m_LocalRotation.w
@@ -20299,15 +20303,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7703216750805267692, guid: bd22bc95a0b84a347907f1c8aeb2c38a, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: 0.00000008146034
       objectReference: {fileID: 0}
     - target: {fileID: 7703216750805267692, guid: bd22bc95a0b84a347907f1c8aeb2c38a, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 7703216750805267692, guid: bd22bc95a0b84a347907f1c8aeb2c38a, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 7703216750805267692, guid: bd22bc95a0b84a347907f1c8aeb2c38a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -20589,32 +20593,44 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 3715693560734896218, guid: 3bc388e835fe19d4aac41caf49758e3a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.1999991
+      objectReference: {fileID: 0}
+    - target: {fileID: 3715693560734896218, guid: 3bc388e835fe19d4aac41caf49758e3a, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.2000016
+      objectReference: {fileID: 0}
+    - target: {fileID: 3715693560734896218, guid: 3bc388e835fe19d4aac41caf49758e3a, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.2000006
+      objectReference: {fileID: 0}
+    - target: {fileID: 3715693560734896218, guid: 3bc388e835fe19d4aac41caf49758e3a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 1.5660869
       objectReference: {fileID: 0}
     - target: {fileID: 3715693560734896218, guid: 3bc388e835fe19d4aac41caf49758e3a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 6.4244404
       objectReference: {fileID: 0}
     - target: {fileID: 3715693560734896218, guid: 3bc388e835fe19d4aac41caf49758e3a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -35.17572
       objectReference: {fileID: 0}
     - target: {fileID: 3715693560734896218, guid: 3bc388e835fe19d4aac41caf49758e3a, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.9867463
       objectReference: {fileID: 0}
     - target: {fileID: 3715693560734896218, guid: 3bc388e835fe19d4aac41caf49758e3a, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: 0.04985799
       objectReference: {fileID: 0}
     - target: {fileID: 3715693560734896218, guid: 3bc388e835fe19d4aac41caf49758e3a, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0.14616187
       objectReference: {fileID: 0}
     - target: {fileID: 3715693560734896218, guid: 3bc388e835fe19d4aac41caf49758e3a, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: 0.049827453
       objectReference: {fileID: 0}
     - target: {fileID: 3715693560734896218, guid: 3bc388e835fe19d4aac41caf49758e3a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -20631,6 +20647,10 @@ PrefabInstance:
     - target: {fileID: 7317468792875583007, guid: 3bc388e835fe19d4aac41caf49758e3a, type: 3}
       propertyPath: m_Name
       value: fx_LeilongRider_01_skill01_shifa01
+      objectReference: {fileID: 0}
+    - target: {fileID: 7317468792875583007, guid: 3bc388e835fe19d4aac41caf49758e3a, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
