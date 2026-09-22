@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: dome 2
-  m_Shader: {fileID: 4800000, guid: 8a88e29b22ad8244b8488142b1cbc490, type: 3}
+  m_Name: crack 2
+  m_Shader: {fileID: 4800000, guid: 2f58141c6ed6be64992adc7ed4a353e4, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -49,7 +49,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 0d724db4fd745784aa2b02350140573f, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1e11330423ae4a64c939b4b48a6a26d7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -69,7 +73,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TurbulenceTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 2d44946dcb0ffcb4da763838f186ddac, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -97,18 +101,20 @@ Material:
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
     - _ColorMask: 15
-    - _Cull: 0
+    - _Cull: 2
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
+    - _Dissolve_Tex_smooth: 0.791
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _MainTexBrightness: 2
+    - _MainTexBrightness: 1.5
     - _MainTexPower: 2
+    - _MainTexTurbulenceScale: 0
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
@@ -131,6 +137,7 @@ Material:
     - _TurbulenceTexPannerX: 0
     - _TurbulenceTexPannerY: 0
     - _WorkflowMode: 1
+    - _ZTest: 4
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
